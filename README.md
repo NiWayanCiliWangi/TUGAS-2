@@ -1,5 +1,5 @@
 Web ini merupakan web sistem informasi sederhana untuk menghitung upah karyawan setiap minggu.
-Dimana erusahaan tersebut memiliki lima orang karyawan, informasi karyawan meliputi Nomor Induk Karyawan, Nama Lengkap.
+Dimana perusahaan tersebut memiliki lima orang karyawan, informasi karyawan meliputi Nomor Induk Karyawan, Nama Lengkap.
 Setiap karyawan memiliki upah per jam yang berbeda-beda.
 	Contoh:
 	- Wayan: Rp. 35,000,-
